@@ -1,2 +1,2 @@
 # nistats
-tutorial
+GLM tutorial walkthrough
